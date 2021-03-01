@@ -14,7 +14,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: Entra nel Blog
         url: blog
         style: button
   - section_id: latest-projects
