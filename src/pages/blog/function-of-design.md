@@ -7,7 +7,7 @@ excerpt: >-
 date: '2018-01-15'
 thumb_image: images/13_thumb.jpg
 thumb_image_alt: Library shelves
-image: <img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo"
+image: <img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo"*
 image_alt: Library shelves
 seo:
   title: The function of design is letting design function
