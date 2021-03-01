@@ -11,7 +11,6 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Ultimi articoli dal Blog
-    subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
     actions:
