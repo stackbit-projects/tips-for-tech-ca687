@@ -5,7 +5,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
 date: '2018-01-15'
-thumb_image: ![Image of Yaktocat](https://cdn.vox-cdn.com/thumbor/Jc4ldLkQxuDW9eJFGE6w2O0Xjpo=/0x0:2040x1360/920x613/filters:focal(895x304:1221x630):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68592461/vpavic_4291_20201113_0366.0.0.jpg)
+thumb_image: [Image of Yaktocat](https://cdn.vox-cdn.com/thumbor/Jc4ldLkQxuDW9eJFGE6w2O0Xjpo=/0x0:2040x1360/920x613/filters:focal(895x304:1221x630):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68592461/vpavic_4291_20201113_0366.0.0.jpg)
 thumb_image_alt: Library shelves
 image: images/13_thumb.jpg
 image_alt: Library shelves
