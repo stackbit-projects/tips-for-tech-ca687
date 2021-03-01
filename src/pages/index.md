@@ -20,7 +20,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: P
+    title: I Progetti più Recenti
     projects_number: 6
     view_all_label: Guardali Tutti
     view_all_url: portfolio
