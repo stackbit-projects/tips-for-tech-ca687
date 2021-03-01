@@ -23,7 +23,7 @@ sections:
     title: Recent Work
     subtitle: An optional subtitle of the section
     projects_number: 6
-    view_all_label: Guardali tutti
+    view_all_label: Guardali Tutti
     view_all_url: portfolio
 seo:
   title: Stackbit Exto Theme
