@@ -7,10 +7,7 @@ sections:
     title: Benvenuti in Tips for Tech
     content: |
       Il portale sulla Tecnologia alla portata di tutti
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
