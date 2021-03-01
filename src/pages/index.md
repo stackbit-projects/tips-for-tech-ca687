@@ -11,7 +11,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Ultimi articoli dal Blog
-    posts_number: 5
+    posts_number: 6
     col_number: three
     actions:
       - label: Entra nel Blog
