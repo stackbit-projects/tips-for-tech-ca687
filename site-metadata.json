@@ -11,13 +11,13 @@
                 "style": "link"
             },
             {
-                "label": "Progetti",
-                "url": "/portfolio/",
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
+                "label": "Progetti",
+                "url": "/portfolio/",
                 "style": "link"
             },
             {
