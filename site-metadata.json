@@ -35,7 +35,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/Tips for Tech wide.png"
     },
     "footer": {
         "content": "&copy; Tips fo Tech created by Angelini Fabio 2021",
