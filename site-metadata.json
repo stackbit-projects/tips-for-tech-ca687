@@ -36,7 +36,8 @@
                 "style": "link"
             }
         ],
-        "logo_img": "images/Tips for Tech wide (1).png"
+        "logo_img": "images/Tips for Tech wide (1).png",
+        "logo_img_alt": "Tips for Tech Home"
     },
     "footer": {
         "content": "&copy; Tips fo Tech created by Angelini Fabio 2021",
