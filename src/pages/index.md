@@ -5,8 +5,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: Benvenuti in Tips for Tech
-    content: |
-      Il portale sulla Tecnologia alla portata di tutti
     actions: []
   - section_id: latest-posts
     type: section_posts
