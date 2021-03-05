@@ -54,7 +54,7 @@
             },
             {
                 "label": "Facebook",
-                "url": "httpswww.facebook.com",
+                "url": "https:www.facebook.com",
                 "style": "icon",
                 "icon": "facebook",
                 "new_window": true
