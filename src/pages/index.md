@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Benvenuti in Tips for Tech
+    title: Benvenuti in Tips for Tech...
     actions: []
   - section_id: latest-posts
     type: section_posts
