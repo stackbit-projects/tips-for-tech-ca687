@@ -19,7 +19,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: I Progetti più Recenti
-    projects_number: 6
+    projects_number: 5
     view_all_label: Guardali Tutti
     view_all_url: portfolio
 seo:
