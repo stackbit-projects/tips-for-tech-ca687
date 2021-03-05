@@ -12,6 +12,7 @@ export default class SectionHero extends React.Component {
               <div className="inner">
                 {_.get(section, 'title', null) && (
                 <div className="block-header inner-sm">
+                    <Link to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img_alt', null)} /></Link>
                   <h1 className="block-title">{_.get(section, 'title', null)}</h1>
                 </div>
                 )}
